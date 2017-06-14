@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="ES">
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<title>Aerolineas - Reservas - Carga de datos y selecci&oacute;n de asiento</title>
+		<title>Aerolineas demo - Reservas - Carga de datos y selecci&oacute;n de asiento</title>
 		<!-- START ESTILOS -->
 		<link rel="stylesheet" href="lib/bootstrap/css/bootstrap.css"><!-- Bootstrap -->
 		<link rel="stylesheet" href="lib/jquery-ui-1.11.2/jquery-ui.css"><!-- Jquery UI -->
