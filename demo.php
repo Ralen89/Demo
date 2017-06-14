@@ -14,6 +14,8 @@
     echo "Prueba 009"; //PanelPublicidad
 
     //Demo VS CODE
+
+    $Conexion = "Demo";
     
 ?>
 
