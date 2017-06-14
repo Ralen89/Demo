@@ -16,6 +16,7 @@
     //Demo VS CODE
 
     $Conexion = "Demo";
+    $db = "pruebas";
     
 ?>
 
