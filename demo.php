@@ -10,4 +10,6 @@
 
     echo "Prueba 006"; //PanelPublicidad
     echo "Prueba 007"; //PanelPublicidad
+
+    echo "Prueba 009"; //PanelPublicidad
 ?>
