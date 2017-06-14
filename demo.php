@@ -6,4 +6,5 @@
     echo "Prueba 003"; // Rafael Altamirano
     echo "Prueba 004"; //PanelPublicidad
 
+    echo "Prueba 005";
 ?>
