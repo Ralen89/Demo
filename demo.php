@@ -13,7 +13,7 @@
     echo "Prueba 008"; //PanelPublicidad
     echo "Prueba 009"; //PanelPublicidad
 
-    //Demo VS CODE
+    //Demo VS CODE V1
 
     $Conexion = "Demo";
     $db = "pruebas";
