@@ -7,4 +7,7 @@
     echo "Prueba 004"; //PanelPublicidad
 
     echo "Prueba 005"; //PanelPublicidad
+
+    echo "Prueba 006"; //PanelPublicidad
+    echo "Prueba 007"; //PanelPublicidad
 ?>
